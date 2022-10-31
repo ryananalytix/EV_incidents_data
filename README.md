@@ -1,4 +1,4 @@
-# EV_incidents_data
+# EV battery & incidents data
 Data shared for STDS - Spring 2022
 All data in this repository is publicly available from:
 - https://www.kaggle.com/datasets/atechnohazard/battery-and-heating-data-in-real-driving-cycles
